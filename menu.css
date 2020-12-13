@@ -1,0 +1,20 @@
+.menu li{
+display: inline;	
+border: 1px solid black;
+padding:4px;
+background-color: #bbb;
+list-style:none;
+}
+.menu a {
+	text-decoration:none;
+	color: black;
+}
+.menu li:hover{
+	background-color: #ecc;
+}
+.menu li.active {
+	background-color:white;
+	border-bottom: 0px;
+}
+
+git

@@ -1,0 +1,33 @@
+p {
+text-align: center;
+color: red;
+}
+h1{ 
+text-align: center;
+}
+#p2{
+text-align: left;
+color: green;
+}
+#p3{
+text-align: right;
+color: blue;
+}
+.liste {
+color:yellow;
+font-size: 6em;
+}
+table{
+border: 1px solid black;
+border-collapse: collapse;
+background-color:#ebb;
+}
+th, td{
+border: 1px solid black;
+}
+#paire{
+background-color:#edd;
+}
+#impaire{
+background-color:purple;
+}
